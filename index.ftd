@@ -3,6 +3,6 @@
 -- is-mobile: true
 if: $ftd.device == mobile
 
--- aditi.page: E-INVITATIONS
+-- aditi.page: SHORT_URL
 
 This page shows you template for e-cards using ftd.
