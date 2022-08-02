@@ -1,1 +1,8 @@
--- ds.page: hello
+-- boolean is-mobile: false
+
+-- is-mobile: true
+if: $ftd.device == mobile
+
+-- aditi.page: E-INVITATIONS
+
+This page shows you template for e-cards using ftd.
