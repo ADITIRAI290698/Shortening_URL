@@ -1,0 +1,10 @@
+-- import: fpm
+
+-- fpm.package: aditirai290698.github.io/shortening_url
+zip: github.com/aditirai290698/shortening_url/archive/refs/heads/main.zip
+base: https://raw.githubusercontent.com/aditirai290698/shortening_url/main
+
+-- fpm.dependency: fifthtry.github.io/doc-site as aditi
+-- fpm.dependency: fifthtry.github.io/package-doc as pd
+
+-- fpm.auto-import: aditi
