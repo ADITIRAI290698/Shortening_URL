@@ -4,11 +4,11 @@
 zip: github.com/aditirai290698/shortening_url/archive/refs/heads/main.zip
 base: https://raw.githubusercontent.com/aditirai290698/shortening_url/main
 
--- fpm.dependency: fifthtry.github.io/doc-site as aditi
+-- fpm.dependency: fifthtry.github.io/doc-site as ds
 -- fpm.dependency: fifthtry.github.io/package-doc as pd
--- fpm.dependency: fifthtry.github.io/package-doc/code-block as cb
+-- fpm.dependency: fifthtry.github.io/code-block as cb
 
--- fpm.auto-import: aditi
+-- fpm.auto-import: ds
 -- fpm.auto-import: fpm
 -- fpm.auto-import: aditirai290698.github.io/shortening_url/FPM/config
 -- fpm.auto-import: aditirai290698.github.io/shortening_url/assets
